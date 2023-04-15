@@ -1,4 +1,4 @@
-# news-app
+# News-App
 
 A New Flutter Application Built Using Bloc State Management.
 
